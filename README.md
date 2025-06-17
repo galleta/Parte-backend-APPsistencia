@@ -1,7 +1,11 @@
-# Parte back-end para el control de los datos de la APP APPsistencia
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/Lenguaje-PHP%205-777bb4?logo=php)
+![JSON](https://img.shields.io/badge/Formato-JSON-5E5C5C?logo=json)
+![API REST](https://img.shields.io/badge/API-RESTful-0d1117?logo=api&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Base%20de%20datos-MySQL-00758F?logo=mysql)
+
+# Parte back-end para el control de los datos de la APP APPsistencia
 
 Este repositorio contiene la parte del back-end de la aplicación APPsistencia, desarrollada en PHP 5 y utilizando una base de datos MySQL. Está diseñada para gestionar y almacenar los registros de asistencia generados por la aplicación móvil.
 
