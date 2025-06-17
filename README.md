@@ -1,4 +1,4 @@
-# Parte back-end para el control de los datos de la APP APPsistencia v4.10
+# Parte back-end para el control de los datos de la APP APPsistencia
 
 ![PHP](https://img.shields.io/badge/Lenguaje-PHP%205-777bb4?logo=php)
 ![MySQL](https://img.shields.io/badge/Base%20de%20datos-MySQL-00758F?logo=mysql)
@@ -20,11 +20,15 @@ Creé esta aplicación mientras trabajaba como docente en un centro privado de F
 - Diseño basado en PHP 5 y MySQL.
 - Pensada para uso docente en el aula.
 
-## Repositorio de la APP APPsistencia v4.10 (Versión Android)
+## Repositorios de la APP APPsistencia
 
 La parte correspondiente de la APP APPsistencia v4.10 (Versión Android), desarrollada en *Android Studio*, se encuentra disponible en el siguiente repositorio:
 
 👉 [Repositorio APPsistencia v4.10 (Versión Android)](https://github.com/galleta/AsistenciaAlumnos)
+
+La parte correspondiente de la APP APPsistencia v2.0 (Versión iOS), desarrollada en *XCode*, se encuentra disponible en el siguiente repositorio:
+
+👉 [Repositorio APPsistencia v2.0 (Versión ios)](https://github.com/galleta/AsistenciaAlumnos-iOS)
 
 ## Estado del proyecto
 
